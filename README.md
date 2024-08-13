@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Clarence!
 
-## 🧑‍💻 About Me
+### 🧑‍💻 About Me
 I'm a Y2 Computer Science student studying at Singapore University Of Technology and Design (SUTD)! 
 - I am passionate in yoinking things off the internet and heres the first thing I yoinked!
 
